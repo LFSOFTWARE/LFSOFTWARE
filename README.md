@@ -3,8 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luuuuiiiizzz)
 
 
-![LFSOFTWARE GitHub stats](https://github-readme-stats.vercel.app/api?username=LFSOFTWARE&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">

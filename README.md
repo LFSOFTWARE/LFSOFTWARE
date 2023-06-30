@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luuuuiiiizzz)
 
 
-##Technologies I use in my daily life
+## Technologies I use in my daily life
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,4 +15,4 @@
 </div><br/>
 
 
-#technology is capable of changing lives. she changed mine.
+# technology is capable of changing lives. she changed mine.

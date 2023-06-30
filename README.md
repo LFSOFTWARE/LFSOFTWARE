@@ -15,4 +15,5 @@
 </div><br/>
 
 
-# technology is capable of changing lives. she changed mine.
+### Technology is capable of changing lives. she changed mine. I work as a full stack and I attended the São Paulo College of Technology
+
